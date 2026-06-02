@@ -4,7 +4,7 @@
 These screenshots provide a snapshot of the insights generated from the space missions dataset.
 
 ![Space Mission Launch Trends](Rockets.png)
-![Global Mission Distribution](World%20information.png)
+![Global Mission Distribution](World%20information%20.png)
 
 ## Interactive Dashboard
 You can interact with the live dashboard here:
